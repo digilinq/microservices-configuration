@@ -1,7 +1,5 @@
-token:
-  secret: 222222
-
 spring:
+  cloud:
     gateway:
       httpclient:
         wiretap: true
