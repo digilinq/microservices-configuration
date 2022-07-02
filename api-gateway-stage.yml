@@ -1,5 +1,5 @@
 token:
-  secret: 111111111111111111111111111111
+  secret: 222222
 
 spring:
     gateway:
